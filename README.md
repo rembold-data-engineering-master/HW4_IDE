@@ -1,4 +1,4 @@
 # Homework 4
-Enclosed within this repository is a `.sql` script that you can run to generate all the tables necessary for the assignment, as well as an image showing the relationships between the superheroes tables. Upload your final work back to this repository when finished!
+Enclosed within this repository are two templates for Problems 1 and 2, and then a `HW4.sql` script that you can run to generate all the tables necessary for the assignment. I've also included a copy of the image showing the relationships between the superheroes tables. Upload your final work inside the template files batk to this repository when finished!
 
-Due date: February 17, 2022
+Due date: October 6, 2022
