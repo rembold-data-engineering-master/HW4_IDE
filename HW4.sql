@@ -81,7 +81,7 @@ CREATE TABLE hw4.superheroes (
   height_cm int,
   weight_kg int
 );
-INSERT INTO hw4.superheros VALUES 
+INSERT INTO hw4.superheroes VALUES 
 (1,'3-D Man','Charles Chandler',1,9,13,1,1,13,1,188,90),
 (2,'A-Bomb','Richard Milhouse Jones',1,33,1,1,24,13,1,203,441),
 (3,'Abe Sapien','Abraham Sapien',1,7,1,7,33,3,1,191,65),
