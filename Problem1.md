@@ -20,7 +20,7 @@ What is the average intelligence of (purely) human superheros?
 ```
 
 ## Part C
-What is the most common superpower for superheros with blond hair?
+What is the most common superpower for superheros with blond (or blondish) hair?
 - **Answer:**
 ```sql
 

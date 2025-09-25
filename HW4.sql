@@ -71,7 +71,7 @@ CREATE TABLE hw4.superheroes (
   id serial,
   superhero_name varchar(200),
   full_name varchar(200),
-  gender_id int,
+  sex_id int,
   eye_color_id int,
   hair_color_id int,
   skin_color_id int,
