@@ -8,6 +8,7 @@ As usual, you have space to fill in both your answer and the accompanying SQL st
 ## Part A
 What percentage of bad or evil superheros have (purely) red eyes?
 - **Answers:**
+- **Explanation (in needed):**
 ```sql
 
 ```
@@ -15,6 +16,7 @@ What percentage of bad or evil superheros have (purely) red eyes?
 ## Part B
 What is the average intelligence of (purely) human superheros?
 - **Answer:**
+- **Explanation (in needed):**
 ```sql
 
 ```
@@ -22,6 +24,7 @@ What is the average intelligence of (purely) human superheros?
 ## Part C
 What is the most common superpower for superheros with blond (or blondish) hair?
 - **Answer:**
+- **Explanation (in needed):**
 ```sql
 
 ```
@@ -29,6 +32,7 @@ What is the most common superpower for superheros with blond (or blondish) hair?
 ## Part D
 How many unique combinations of race and sex have no corresponding superheros?
 - **Answer:**
+- **Explanation (in needed):**
 ```sql
 
 ```
