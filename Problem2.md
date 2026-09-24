@@ -8,7 +8,7 @@ As usual, you have space to fill in both your answer and the accompanying SQL st
 ## Part A
 How many married couples are represented in the data?
 - **Answer:**
-- **Explanation (in needed):**
+- **Explanation (if needed):**
 ```sql
 
 ```
@@ -16,7 +16,7 @@ How many married couples are represented in the data?
 ## Part B
 What full names were duplicated throughout the family tree, where individuals, who were alive at the same time, were given the same name despite being different individuals?
 - **Answer:**
-- **Explanation (in needed):**
+- **Explanation (if needed):**
 ```sql
 
 ```
@@ -24,7 +24,7 @@ What full names were duplicated throughout the family tree, where individuals, w
 ## Part C
 What was the greatest age difference between married partners? What were these partner's names?
 - **Answers:**
-- **Explanation (in needed):**
+- **Explanation (if needed):**
 ```sql
 
 ```
@@ -32,7 +32,7 @@ What was the greatest age difference between married partners? What were these p
 ## Part D
 What is the youngest age at which someone became a grandparent? Who became a grandparent at this age?
 - **Answers:**
-- **Explanation (in needed):**
+- **Explanation (if needed):**
 ```sql
 
 ```
